@@ -1,4 +1,4 @@
-Sovcom Test Application
+# Sovcom Test Application
 
 This is the Test Application as appliance to the Sovcombank iOS team.
 The case itself described in `Code test - Transaction Viewer.pdf` file in the root of the project.
@@ -14,7 +14,7 @@ The case itself described in `Code test - Transaction Viewer.pdf` file in the ro
 - Foundation
 - Combine
 
-# How to app
+## How to app
 1. App requires 2 `plist` files:
     - `rates.plist`
     - `transactions.plist`
